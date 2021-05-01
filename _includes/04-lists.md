@@ -1,5 +1,5 @@
-Replace this with a list of your favorite things.
-* Music.
-* playing piano.
-* running.
-* reading.
+List of My  **favorite things**.
+* -Music-.
+* -playing piano-.
+* -running-.
+* -reading-.
